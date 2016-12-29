@@ -1,0 +1,9 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+#header {
+	max-width: 10000px;
+	width: 100%;
+	background-color: gray;
+}
